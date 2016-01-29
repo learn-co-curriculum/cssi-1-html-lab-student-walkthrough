@@ -165,4 +165,4 @@ If time allows: create a friends.html page. Include at least three friends, alon
 ## Resources
 [W3 Schools HTML](http://www.w3schools.com/html/)
 
-<a href='https://learn.co/lessons/cssi-1-html-lab-student-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1-html-lab-student-walkthrough' title='HTML Lab Students Walkthrough'>HTML Lab Students Walkthrough</a> on Learn.co and start learning to code for free.</p>
